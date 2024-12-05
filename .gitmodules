@@ -1,0 +1,6 @@
+[submodule "libdwarf"]
+	path = third_party/libdwarf
+	url = https://github.com/davea42/libdwarf-code
+[submodule "third_party/libdwarf"]
+	path = third_party/libdwarf
+	url = https://github.com/davea42/libdwarf-code.git
